@@ -13,4 +13,6 @@ public interface GoodsDao {
     List<Goods> findPageByWhere(int pageNum, int pageSize, String condition);
 
     Goods findByGid(int gid);
+
+
 }

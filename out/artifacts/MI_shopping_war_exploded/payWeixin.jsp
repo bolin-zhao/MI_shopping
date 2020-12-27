@@ -43,9 +43,9 @@
 						</tr>
 						<tr>
 							<td colspan="1">商品介绍:</td>
-							<td colspan="3"><input type="text" class="form-control" name="body" value="myxiaomi" readonly="readonly">
+							<td colspan="3"><input type="text" class="form-control" name="body" value="米家商品,假一赔十!" readonly="readonly">
 							<!-- 设置 程序回传到的链接地址 -->
-							<input type="hidden" class="form-control" name="url" value="http://localhost:8080/myxiaomi/wxcallback">
+							<input type="hidden" class="form-control" name="url" value="http://localhost:8080/wxcallback">
 							</td>
 						</tr>
 						

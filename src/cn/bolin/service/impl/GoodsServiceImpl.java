@@ -34,4 +34,6 @@ public class GoodsServiceImpl implements GoodsService {
         goods.setGoodsType(goodsType);
         return goods;
     }
+
+
 }

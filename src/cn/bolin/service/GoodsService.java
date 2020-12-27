@@ -10,4 +10,6 @@ public interface GoodsService {
     PageBean<Goods> findPageByWhere(int pageNum, int pageSize, String condition);
 
     Goods findByGid(int gid);
+
+
 }

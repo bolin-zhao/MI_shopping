@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4729624c-a012-499a-9482-12d5d4745246" name="Default Changelist" comment="" />
+    <list default="true" id="4729624c-a012-499a-9482-12d5d4745246" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/16670.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/16670.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bolin/dao/GoodsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bolin/dao/GoodsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bolin/dao/impl/GoodsDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bolin/dao/impl/GoodsDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bolin/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bolin/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bolin/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bolin/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bolin/utils/DataSourceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bolin/utils/DataSourceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/payWeixin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/payWeixin.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -34,14 +46,21 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1lzdnnKL4XTEBLiUsjoDXyFcbZW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/bolin/utils" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="cn.bolin.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16670\Desktop\Java\MI_shopping\src\cn\bolin\utils" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cn.bolin.dao.impl" />
@@ -174,6 +193,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -189,12 +211,27 @@
       <workItem from="1608608902300" duration="25510000" />
       <workItem from="1608683284511" duration="30371000" />
       <workItem from="1608721335671" duration="32291000" />
-      <workItem from="1608793703964" duration="6228000" />
+      <workItem from="1608793703964" duration="7634000" />
+      <workItem from="1608876430709" duration="33000" />
+      <workItem from="1608877198994" duration="38769000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
